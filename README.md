@@ -22,3 +22,8 @@ A modern, mobile-friendly landing page created for a digital marketing agency us
 3. Import the SQL file into **phpMyAdmin**.
 4. Place the folder in `htdocs` directory.
 5. Open `index.html` in the browser via `localhost`.
+
+## 🔗 Live Demo
+
+[Click here to view the live landing page](https://dreamy-chebakia-cf4c99.netlify.app/)
+
